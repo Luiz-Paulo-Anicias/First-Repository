@@ -1,2 +1,4 @@
 # First Repository
-Primeiro repositório 
+Primeiro repositório! 
+
+Repositório criado como teste para aprendizado de Git.
